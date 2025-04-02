@@ -9,5 +9,7 @@
 - **Avaliablility**: Protect against disruptions in access
 
 
+## Week 1 Quiz - Part 1
+
 
 
