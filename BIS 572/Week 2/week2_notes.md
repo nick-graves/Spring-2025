@@ -145,7 +145,7 @@ Polices happen over a lifecycle:
 
 ---
 
-Four types of police documents:
+<u>**Four types of police documents** </u>:
 - **Polices**: Required and prohibited activities and behvaiors
 - **Standards**: Interpret the polices in specific situations
     - More specific than polices
@@ -158,7 +158,7 @@ Four types of police documents:
 
 ---
 
-**Security Incident Response**
+<u>**Security Incident Response** </u>
 - **RPO**: Response Point Objective - Specifices how much data can you lose
     - EX: Backup should be up and running within 24 hours
 - **RTO**: Resonse Time Objective - Specifies how long you willing to wait before service is resotred
@@ -167,6 +167,23 @@ Four types of police documents:
 ---
 
 ## Controls
+
+<u>**Four Three of controls**</u>:
+
+- **Preventive**: Prevents the vulnerability
+    - Password rules, background checks
+- **Detective**: Detects the vulnerbility
+    - Configuration alerts, account review
+- **Corrective**: Corrects the vulernbility
+    - Backups, executable replacement
+
+What is it that provides protection?
+
+Was there human intervention?
+
+There are two types of **preventive** and **detective** controls: **Manual** and **automaic**. Depends on where the protection happens. Is a **human intervention involved**? Password rules would be automatic since the system won't let you input a weak password. If automatically prevents it without human intervention for you to get the protection. If for example an alert is sent out, does a human need to review it for there to be protection? If so, that is a manula control. 
+
+---
 
 
 
