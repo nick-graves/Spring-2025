@@ -132,3 +132,47 @@ events
 DDOS – Distributed Denial of Service attacks
 
 
+# BIS 572 - Week 2 Lecture 2 Notes
+
+## Polices
+
+**Senior management** devlops policy. The **board of directors** accepts and validates said polices. 
+
+Polices happen over a lifecycle:
+- Devlop, maintain, approve, exceptions
+- Annual review is expected good practice
+- Exceptions will be needed - say how this happens
+
+---
+
+Four types of police documents:
+- **Polices**: Required and prohibited activities and behvaiors
+- **Standards**: Interpret the polices in specific situations
+    - More specific than polices
+- **Procedures**: Provides details on how to comply with polices and standards
+- **Guidelines**: Provide general guidance on issues such as "What to do in particular circumstances". These are not requierments to be met but are strong recommendations
+
+---
+
+**Polices** need metrics to verify they are working.
+
+---
+
+**Security Incident Response**
+- **RPO**: Response Point Objective - Specifices how much data can you lose
+    - EX: Backup should be up and running within 24 hours
+- **RTO**: Resonse Time Objective - Specifies how long you willing to wait before service is resotred
+    - EX: Can lose 24 hours of data and still survive
+
+---
+
+## Controls
+
+
+
+
+
+
+
+
+
